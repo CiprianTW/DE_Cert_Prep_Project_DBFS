@@ -1,8 +1,5 @@
 # Databricks Data Engineer Cert Prep Project (DBFS Focus)
 
-**Current Date:** Tuesday, April 22, 2025
-**Location:** Iași, Iași County, Romania
-
 **Goal:** Provide hands-on examples for the Databricks Data Engineer Professional certification, using **DBFS exclusively** for data storage. This project is designed for environments where direct access to external cloud storage (like S3, ADLS, GCS) is not available or desired for the exercise.
 
 **Data:** NYC Yellow Taxi Trip Records (January 2023 Parquet file recommended). Download and upload as per instructions in `00_Setup_Data_DBFS`.
